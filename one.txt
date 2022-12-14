@@ -1,4 +1,4 @@
-******************************
-&&&&&&&&&&&&&&&&&&&&&&&&
-
-kdajsil
+MongoDB aggregate command
+The aggregate command does the aggregation operation using the aggregation pipeline.
+The aggregation pipeline allows the user to perform data processing from a record 
+or other source using a stage-based application sequence.
